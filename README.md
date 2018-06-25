@@ -200,7 +200,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 ## Interview Process & General Interview Prep
 
-- [ ] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
   - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
   - [ ] [Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
   - [ ] [Algorithm Match Archive](http://community.topcoder.com/tc?module=MatchList)
