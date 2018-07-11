@@ -184,7 +184,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 
 - [x] [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-## Continue
+
 - [x] [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 Amazing article
@@ -202,7 +202,8 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 ## Interview Process & General Interview Prep
 
 - [x] [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-  - [ ] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
+  - [x] [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
+  ## Continue
   - [ ] [Data Science Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
   - [ ] [Algorithm Match Archive](http://community.topcoder.com/tc?module=MatchList)
 
