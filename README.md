@@ -282,7 +282,6 @@ If short on time:
         - Chapter 10 - Instruction Set Architecture
         - Chapter 11 - Memory Architecture and Organization
 
-## Continue
 If you have more time (I want this book):
 
 - [ ] [Computer Architecture, Sixth Edition: A Quantitative Approach](https://www.amazon.com/dp/0128119055)
@@ -307,6 +306,7 @@ I haven't read these two, but they are highly rated and written by Sedgewick. He
 
 If you have a better recommendation for C++, please let me know. Looking for a comprehensive resource.
 
+## Continue
 ### Java
 
 - [ ] [Algorithms (Sedgewick and Wayne)](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/)
